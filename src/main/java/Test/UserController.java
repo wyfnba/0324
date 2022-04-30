@@ -9,6 +9,6 @@ public class UserController {
     }
     @RequestMapping("wyf")
     public void m1(){
-
+        System.out.println("push测试");
     }
 }
